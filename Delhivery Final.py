@@ -91,7 +91,6 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
 from matplotlib import figure
 import warnings
 warnings.filterwarnings('ignore')
